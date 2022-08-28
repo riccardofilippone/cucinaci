@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cucinaci/static/css/main.45d6f755.css",
-    "main.js": "/cucinaci/static/js/main.bcc0fba5.js",
+    "main.js": "/cucinaci/static/js/main.7c5e16f0.js",
     "static/media/logo.svg": "/cucinaci/static/media/logo.64e04056ab898684227be5943fa7960a.svg",
     "index.html": "/cucinaci/index.html",
     "main.45d6f755.css.map": "/cucinaci/static/css/main.45d6f755.css.map",
-    "main.bcc0fba5.js.map": "/cucinaci/static/js/main.bcc0fba5.js.map"
+    "main.7c5e16f0.js.map": "/cucinaci/static/js/main.7c5e16f0.js.map"
   },
   "entrypoints": [
     "static/css/main.45d6f755.css",
-    "static/js/main.bcc0fba5.js"
+    "static/js/main.7c5e16f0.js"
   ]
 }
